@@ -1,1 +1,1 @@
-The implementation of Examplar-based multi-view X-ray image generation.
+The implementation of Mask-guided exemplar-based X-ray image translation across views.
